@@ -1,0 +1,5 @@
+Step 1: Create a complete HTML structure for a simple personal portfolio website. Include a header with my name, a navigation menu with “Home”, “About”, “Projects”, and “Contact” links, and sections for each of these parts. Fill each section with example text so I can replace it later. Add a footer with my email. Keep it clean and beginner-friendly.
+
+Step 2: Create a separate CSS file to style my portfolio website. Use simple colors, fonts, spacing, and basic layout so it looks neat and readable. Make it responsive for mobile and desktop. Link the CSS file to my HTML.
+
+Step 3: Add a small JavaScript file to my portfolio website to make it more interactive. For example, when someone clicks the navigation links, it should smoothly scroll to that section, and when the contact form is submitted, it should show a thank-you alert. Keep the code simple.
